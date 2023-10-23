@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [jorgeteixeira.raspberryip.com](jorgeteixeira.raspberryip.com)
+- 👨‍💻 All of my projects are available at [jorgeteixeira.raspberryip.com](https://jorgeteixeira.raspberryip.com)
 
 - 💬 Ask me about **Java, Spring Boot, PL/SQL, MySQL**
 
