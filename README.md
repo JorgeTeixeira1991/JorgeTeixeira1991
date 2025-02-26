@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a react frontend for a chat-app**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [jorgeteixeira.raspberryip.com](https://jorgeteixeira.raspberryip.com)
 
